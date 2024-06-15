@@ -7,6 +7,3 @@ Este proyecto consiste en desarrollar un Catálogo de Libros que permite interac
 3. **Listar todos los autores registrados**
 4. **Listar autores que estuvieron vivos en un determinado año**
 5. **Listar libros por idioma**
-
-Cada una de estas opciones proporciona una experiencia interactiva y útil para explorar y gestionar la información de libros almacenada en la aplicación.
-
